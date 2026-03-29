@@ -1,0 +1,13 @@
+com\paint\Window.class
+com\paint\Main.class
+com\paint\Rectangle.class
+com\paint\DialogBox.class
+com\paint\Circle.class
+com\paint\Polygon.class
+com\paint\DrawingContext.class
+com\paint\Event.class
+com\paint\ConsoleWindow.class
+com\mycompany\paintsoftware\PaintSoftware.class
+com\paint\Shape.class
+com\paint\DataController.class
+com\paint\Point.class
